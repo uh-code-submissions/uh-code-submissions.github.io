@@ -37,9 +37,9 @@ Admins should be able to view each problem and see all submitted solutions.  Adm
 
 ## Mockup Pages (Basis for Final Project)
 
-<img class="ui medium right floated image" src="../mockup1.png">
+<img class="ui medium left floated image" src="../mockup1.png">
 
-<img class="ui medium right floated image" src="../mockup2.png">
+<img class="ui medium floated image" src="../mockup2.png">
 
 <img class="ui medium right floated image" src="../mockup3.png">
 

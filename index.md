@@ -36,3 +36,10 @@ Admins should be able to view each problem and see all submitted solutions.  Adm
 - Test code against submitted code by the admin
 
 ## Mockup Pages (Basis for Final Project)
+
+<img class="ui medium right floated image" src="../mockup1.png">
+
+<img class="ui medium right floated image" src="../mockup2.png">
+
+<img class="ui medium right floated image" src="../mockup3.png">
+

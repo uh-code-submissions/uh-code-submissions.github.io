@@ -1,4 +1,4 @@
-Group Members: Jess Ocampo, Kana'i Gooding, Kiran Datwani, Makana Lacson-Garrett
+Group Members: Tristan DeAguiar, Chad Oshiro, Kiran Datwani and Kanai Gooding
 
 ## The problem
 The Programing and Algorithms (PANDA) SIG of ACM Manoa presents algorithm mock interview problems to its members.  Currently, it does not have an effective method of collecting and storing submissions.  Without a unified database of problems and solutions work is often repeated by the club officers and students will have to use difficult methods of submission such as Google Docs.  Google Docs is missing key features such as consistent indentation, language-based color (for variables, etc), and the ability to compile and test submissions.  

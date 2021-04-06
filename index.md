@@ -37,11 +37,14 @@ Admins should be able to view each problem and see all submitted solutions.  Adm
 
 ## Mockup Pages (Basis for Final Project)
 - This mockup page is the basis for the login/signup page for both the users (who solve problems) and the admins (who provide problems).
+
 <img class="ui medium left floated image" src="../mockup1.png">
 
 - This mockup page is the basis for the page where the user would be able to update their profile page, and add any information they would like about themselves.
+
 <img class="ui medium floated image" src="../mockup2.png">
 
 - This mockup page is the basis for the potential leaderboard for seeing the users with the most solutions.
+
 <img class="ui medium right floated image" src="../mockup3.png">
 

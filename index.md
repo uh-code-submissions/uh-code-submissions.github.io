@@ -34,3 +34,5 @@ Admins should be able to view each problem and see all submitted solutions.  Adm
 - Textbox/format property (depending on programming langauge)
 - Compling code in browser
 - Test code against submitted code by the admin
+
+## Mockup Pages (Basis for Final Project)

@@ -54,13 +54,13 @@ Details on mockup page ideas, case ideas, and examples of mockup pages.
 
 <img class="ui medium left floated image" src="../landing.jpg">
 
-- This mockup page is the basis for the login/signup page for both the users (who solve problems) and the admins (who provide problems).
-
-<img class="ui medium left floated image" src="../signUp.jpg">
-
 - This mockup page is the basis for the sign-in page for both the users (who solve problems) and the admins (who provide problems).
 
 <img class="ui medium floated image" src="../signIn.jpg">
+
+- This mockup page is the basis for the login/signup page for both the users (who solve problems) and the admins (who provide problems).
+
+<img class="ui medium left floated image" src="../signUp.jpg">
 
 - This mockup page is the basis for the submission page for seeing the users.
 

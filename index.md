@@ -67,7 +67,7 @@ Work in Progress.
 
 ## Team Members
 
-* [Tristan DeAguiar](https://tristn.github.io/), Computer Science
-* [Chad Oshiro](https://chadoshiro.github.io/), Computer Science
+* Tristan DeAguiar
+* Chad Oshiro
 * [Kiran Datwani](https://kirandatwani.github.io/), Computer Science
-* Kanai Gooding
+* [Kanai Gooding](https://kanaigooding.github.io/), Mathematics

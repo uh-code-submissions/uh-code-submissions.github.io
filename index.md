@@ -2,6 +2,7 @@
 
 * [Overview](#overview)
 * [Github Organization Link](https://github.com/uh-code-submissions)
+* [Deployment](Deployment)
 * [User Guide](#user-guide)
 * [Development History](#development-history)
 * [Team Members](#team-members)
@@ -21,6 +22,9 @@ Admins of the website should be able to add new problems, they should be able to
 Users should be able to answer questions (requiring a sign-in).  By selecting a problem from the problems page, they should be taken to a page to answer the problem where they can record a solution via a textbox.  The text box should include the necessary features to submit Java or Python Code.  The solution should note the language the submission was in.  For inspiration see https://leetcode.com/problems/symmetric-tree/.  If possible, (if this is reasonable for a student to develop), code can be run in the browser and tested against the solutions submitted by the admin for the before-mentioned test cases.  
 
 Admins should be able to view each problem and see all submitted solutions.  Admins should be able to remove any undesired solution from the database from this page.
+
+## Deployment
+Work in Progress.
 
 ## User Guide
 
@@ -57,7 +61,7 @@ Admins should be able to view each problem and see all submitted solutions.  Adm
 <img class="ui medium right floated image" src="../mockup3.png">
 
 ## Development History
-
+### [Milestone 1: Mockup development](https://github.com/uh-code-submissions/uh-code-submissions.github.io/projects/M1) 
 
 ## Team Members
 

@@ -61,7 +61,9 @@ Work in Progress.
 <img class="ui medium right floated image" src="../mockup3.png">
 
 ## Development History
-### [Milestone 1: Mockup development](https://github.com/uh-code-submissions/uh-code-submissions.github.io/projects/M1) 
+### [Milestone 1](https://github.com/uh-code-submissions/uh-code-submissions.github.io/projects/M1) 
+- Created mockup pages
+- Deployment
 
 ## Team Members
 

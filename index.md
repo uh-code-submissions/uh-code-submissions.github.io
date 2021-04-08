@@ -63,7 +63,7 @@ Work in Progress.
 
 ## Development History
 ### [Milestone 1](https://github.com/uh-code-submissions/uh-code-submissions.github.io/projects/M1) 
-- Created mockup pages
+- Create mockup pages
 - Deployment
 
 ## Team Members

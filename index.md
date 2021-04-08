@@ -30,9 +30,10 @@ Work in Progress.
 
 ## Mockup Page Ideas
 - Problem(s) page (For inspiration visit https://leetcode.com/problemset/all/)
-- User profile page (simple options to change name, email and password)
+- User profile page (simple options to change name, email and password, feeback from admin)
 - User solution submit page (For inspiration see https://leetcode.com/problems/symmetric-tree/)
 - New Problem Page (admin only)
+- Feedback Page (admin only)
 - Leaderboard (users with most correct solutions)
 
 ## Case Ideas
@@ -67,7 +68,7 @@ Work in Progress.
 
 ## Team Members
 
-* Tristan DeAguiar
-* Chad Oshiro
+* [Tristan DeAguiar](https://https://tristn.github.io/), Computer Science
+* [Chad Oshiro](https://https://chadoshiro.github.io/), Computer Science
 * [Kiran Datwani](https://kirandatwani.github.io/), Computer Science
 * [Kanai Gooding](https://kanaigooding.github.io/), Mathematics

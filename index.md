@@ -60,9 +60,7 @@ Admins should be able to view each problem and see all submitted solutions.  Adm
 
 ## Team Members
 
-Tristan DeAguiar
-Chad Oshiro
+* Tristan DeAguiar
+* Chad Oshiro
 * [Kiran Datwani](https://kirandatwani.github.io/)Kiran Datwani, Computer Science
-Kanai Gooding
-
-
+* Kanai Gooding

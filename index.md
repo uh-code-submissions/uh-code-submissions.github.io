@@ -27,6 +27,7 @@ Admins should be able to view each problem and see all submitted solutions.  Adm
 Work in Progress.
 
 ## User Guide
+Details on mockup page ideas, case ideas, and examples of mockup pages.
 
 ## Mockup Page Ideas
 - Problem(s) page (For inspiration visit https://leetcode.com/problemset/all/)
@@ -49,17 +50,21 @@ Work in Progress.
 - Test code against submitted code by the admin
 
 ## Mockup Pages (Basis for Final Project)
+- This mockup page is the basis for the landing page for the admins and users.
+
+<img class="ui medium left floated image" src="../landing.jpg">
+
 - This mockup page is the basis for the login/signup page for both the users (who solve problems) and the admins (who provide problems).
 
-<img class="ui medium left floated image" src="../mockup1.png">
+<img class="ui medium left floated image" src="../signUp.jpg">
 
-- This mockup page is the basis for the page where the user would be able to update their profile page, and add any information they would like about themselves.
+- This mockup page is the basis for the sign-in page for both the users (who solve problems) and the admins (who provide problems).
 
-<img class="ui medium floated image" src="../mockup2.png">
+<img class="ui medium floated image" src="../signIn.jpg">
 
 - This mockup page is the basis for the potential leaderboard for seeing the users with the most solutions.
 
-<img class="ui medium right floated image" src="../mockup3.png">
+<img class="ui medium right floated image" src="../submission.jpg">
 
 ## Development History
 ### [Milestone 1](https://github.com/uh-code-submissions/uh-code-submissions.github.io/projects/M1) 

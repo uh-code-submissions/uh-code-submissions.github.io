@@ -3,7 +3,7 @@
 * [Overview](#overview)
 * [Github Organization Link](https://github.com/uh-code-submissions)
 * [User Guide](#user-guide)
-* [Developer History](#developer-history)
+* [Development History](#development-history)
 * [Team Members](#team-members)
 
 ## Overview
@@ -56,11 +56,12 @@ Admins should be able to view each problem and see all submitted solutions.  Adm
 
 <img class="ui medium right floated image" src="../mockup3.png">
 
-## Developer History
+## Development History
+
 
 ## Team Members
 
 * Tristan DeAguiar
 * Chad Oshiro
-* [Kiran Datwani](https://kirandatwani.github.io/)Kiran Datwani, Computer Science
+* [Kiran Datwani](https://kirandatwani.github.io/), Computer Science
 * Kanai Gooding

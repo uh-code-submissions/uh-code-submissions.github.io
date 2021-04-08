@@ -62,7 +62,7 @@ Details on mockup page ideas, case ideas, and examples of mockup pages.
 
 <img class="ui medium floated image" src="../signIn.jpg">
 
-- This mockup page is the basis for the potential leaderboard for seeing the users with the most solutions.
+- This mockup page is the basis for the submission page for seeing the users.
 
 <img class="ui medium right floated image" src="../submission.jpg">
 

@@ -1,7 +1,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Github Organization Link](https://github.com/uh-code-submissions/uh-code-submissions.github.io/projects/1)
+* [Github Organization Link](https://github.com/uh-code-submissions)
 * [Deployment](Deployment)
 * [User Guide](#user-guide)
 * [Development History](#development-history)

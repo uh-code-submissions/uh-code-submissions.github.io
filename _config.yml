@@ -1,1 +1,6 @@
+title: UH Code Submissions
+description: Submit Code and Receive Feedback!
 theme: jekyll-theme-slate
+github:
+  is_project_page: true
+  repository_url: https://github.com/uh-code-submissions/uh-code-submissions

@@ -24,7 +24,7 @@ Users should be able to answer questions (requiring a sign-in).  By selecting a 
 Admins should be able to view each problem and see all submitted solutions.  Admins should be able to remove any undesired solution from the database from this page.
 
 ## Deployment
-Work in Progress.
+Live deployment for the application can be found [here](http://uhcodesubmissions.club/).
 
 ## User Guide
 Details on mockup page ideas, case ideas, and examples of mockup pages.

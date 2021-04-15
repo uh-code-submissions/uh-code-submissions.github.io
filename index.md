@@ -67,9 +67,16 @@ Details on mockup page ideas, case ideas, and examples of mockup pages.
 <img class="ui medium right floated image" src="../submission.jpg">
 
 ## Development History
-### [Milestone 1](https://github.com/uh-code-submissions/uh-code-submissions.github.io/projects/M1) 
-- Create mockup pages
+### [Milestone 1](https://github.com/uh-code-submissions/uh-code-submissions/projects/1) 
+- Create Mockup Pages
 - Deployment
+- Update Project Home Page
+
+### [Milestone 2](https://github.com/uh-code-submissions/uh-code-submissions/projects/2) 
+- Implementing Pages
+- TestCafe Availability Tests
+- GitHub Actions
+- Update Project Home Page
 
 ## Team Members
 

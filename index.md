@@ -2,7 +2,7 @@
 
 * [Overview](#overview)
 * [Github Organization Link](https://github.com/uh-code-submissions)
-* [Deployment](Deployment)
+* [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Development History](#development-history)
 * [Team Members](#team-members)

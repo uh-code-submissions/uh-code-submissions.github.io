@@ -32,22 +32,22 @@ Live deployment for the application can be found [here](http://uhcodesubmissions
 ## User Guide
 Details on mockup page ideas, case ideas, and examples of mockup pages.
 
--The landing page will be the first part of the website that the user or admin will see in the application. On the landing page, people can view what the application is about, and be able to login or signup.
+The landing page will be the first part of the website that the user or admin will see in the application. On the landing page, people can view what the application is about, and be able to login or signup.
 <img class="ui medium left floated image" src="../images/landing.png">
 
-- This page is the sign-in/login page for both the users (who solve problems) and the admins (who provide problems). The login page will be for users who already have an account for the application. The user or admin will be asked to input their email address and password.
+This page is the sign-in/login page for both the users (who solve problems) and the admins (who provide problems). The login page will be for users who already have an account for the application. The user or admin will be asked to input their email address and password.
 
 <img class="ui medium floated image" src="../images/login.png">
 
-- This page is the signup page for both the users (who solve problems) and the admins (who provide problems). The register page is for new users who will be making an account. The register page will be asking basic information such as name, class standing, email, and will be prompted to create a password.
+This page is the signup page for both the users (who solve problems) and the admins (who provide problems). The register page is for new users who will be making an account. The register page will be asking basic information such as name, class standing, email, and will be prompted to create a password.
 
 <img class="ui medium left floated image" src="../images/register.png">
 
-- This is the Admin home page. The admin home page contains a quick basic overview of the admins profile and bio. It features a questions activity feed to allow the admin to see when a student has submitted a new solution to their questions. Also features a big green button which directs the admin to the Submit Question page. The page continues the dark theme throughout the website. This page includes Meme of the Day.
+This is the Admin home page. The admin home page contains a quick basic overview of the admins profile and bio. It features a questions activity feed to allow the admin to see when a student has submitted a new solution to their questions. Also features a big green button which directs the admin to the Submit Question page. The page continues the dark theme throughout the website. This page includes Meme of the Day.
 
 <img class="ui medium right floated image" src="../images/admin-homepage.png">
 
-- In the user profile page, it will contain cards containing information about the user while maintaining the dark theme of the overall website. Grey backgrounds with light grey cards. The first card will contain the user’s profile information, and ONLY on the user’s own page, an link to edit the profile. This includes an image, name, github account and “start rating”. The second card will contain classes that the user has taken, to provide admin with information on knowledge that the student has or doesn’t have. The third card is the ranking, to gamify the website and provide an incentive to complete problems. A bio is included in another card to promote social activity and meeting new people. Problems.The final card will contain ‘subcards’ of problems the user has recently encountered.  
+In the user profile page, it will contain cards containing information about the user while maintaining the dark theme of the overall website. Grey backgrounds with light grey cards. The first card will contain the user’s profile information, and ONLY on the user’s own page, an link to edit the profile. This includes an image, name, github account and “start rating”. The second card will contain classes that the user has taken, to provide admin with information on knowledge that the student has or doesn’t have. The third card is the ranking, to gamify the website and provide an incentive to complete problems. A bio is included in another card to promote social activity and meeting new people. Problems.The final card will contain ‘subcards’ of problems the user has recently encountered.  
 
 <img class="ui medium left floated image" src="../images/user-homepage.png">
 
@@ -69,7 +69,7 @@ Work in Progress.
 Work in Progress.
 
 ## Developer Guide
-Work in development.
+Work in Progress.
 
 ## Development History
 ### [Milestone 1](https://github.com/uh-code-submissions/uh-code-submissions/projects/1) 

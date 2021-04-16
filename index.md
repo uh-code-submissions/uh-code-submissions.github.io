@@ -30,9 +30,10 @@ The solution do this problem will be a comprehensive website that can be used to
 Live deployment for the application can be found [here](http://uhcodesubmissions.club/).
 
 ## User Guide
-Details on mockup page ideas, case ideas, and examples of mockup pages.
+Details on the user interface and screenshots of the project currently is shown in this section.
 
 The landing page will be the first part of the website that the user or admin will see in the application. On the landing page, people can view what the application is about, and be able to login or signup.
+
 <img class="ui medium left floated image" src="../images/landing.png">
 
 This page is the sign-in/login page for both the users (who solve problems) and the admins (who provide problems). The login page will be for users who already have an account for the application. The user or admin will be asked to input their email address and password.

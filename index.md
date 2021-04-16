@@ -32,11 +32,6 @@ Live deployment for the application can be found [here](http://uhcodesubmissions
 ## User Guide
 Details on mockup page ideas, case ideas, and examples of mockup pages.
 
-## Developer Guide
-Work in development.
-
-## Mockup Pages (Basis for Final Project)
-
 -The landing page will be the first part of the website that the user or admin will see in the application. On the landing page, people can view what the application is about, and be able to login or signup.
 <img class="ui medium left floated image" src="../images/landing.png">
 
@@ -72,6 +67,9 @@ Work in Progress.
 
 - Leaderboard (users with most correct solutions)
 Work in Progress.
+
+## Developer Guide
+Work in development.
 
 ## Development History
 ### [Milestone 1](https://github.com/uh-code-submissions/uh-code-submissions/projects/1) 

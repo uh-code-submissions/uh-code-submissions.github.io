@@ -4,6 +4,7 @@
 * [Github Organization Link](https://github.com/uh-code-submissions)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Team Members](#team-members)
 
@@ -49,22 +50,25 @@ Details on mockup page ideas, case ideas, and examples of mockup pages.
 - Compling code in browser
 - Test code against submitted code by the admin
 
+## Developer Guide
+Work in development.
+
 ## Mockup Pages (Basis for Final Project)
 - This mockup page is the basis for the landing page for the admins and users.
 
-<img class="ui medium left floated image" src="../landing.jpg">
+<img class="ui medium left floated image" src="../images/landing.png">
 
 - This mockup page is the basis for the sign-in page for both the users (who solve problems) and the admins (who provide problems).
 
-<img class="ui medium floated image" src="../signIn.jpg">
+<img class="ui medium floated image" src="../images/login.png">
 
 - This mockup page is the basis for the login/signup page for both the users (who solve problems) and the admins (who provide problems).
 
-<img class="ui medium left floated image" src="../signUp.jpg">
+<img class="ui medium left floated image" src="../images/register.png">
 
 - This mockup page is the basis for the submission page for seeing the users.
 
-<img class="ui medium right floated image" src="../submission.jpg">
+<img class="ui medium right floated image" src="../images/problems.png">
 
 ## Development History
 ### [Milestone 1](https://github.com/uh-code-submissions/uh-code-submissions/projects/1) 

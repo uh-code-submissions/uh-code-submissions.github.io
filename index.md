@@ -57,7 +57,7 @@ In the user profile page, it will contain cards containing information about the
 
 <img class="ui medium left floated image" src="../images/user-homepage.png">
 
-### Problems
+### Problems Page
 In the problems page, there will be cards that display problems that the admin has created. The user will be able to click on one of the problems that they want to solve and be moved to the problems solutions page. In the cards, the user will be able to see the title of the problem, A short description of what the problem will be about, and what category that problem is under. Our theme is a darker gray background with lighter gray cards.
 
 <img class="ui medium right floated image" src="../images/problems.png">

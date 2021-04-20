@@ -27,6 +27,11 @@ The solution do this problem will be a comprehensive website that can be used to
 
 - Everyone has access to past problems and solutions
 
+## Beyond the Basics
+- Textbox/format property (depending on programming langauge)
+- Compling code in browser
+- Test code against submitted code by the admin
+
 ## Deployment
 Live deployment for the application can be found [here](http://uhcodesubmissions.club/).
 
@@ -141,11 +146,6 @@ This section explores the devlopment of this application through three milestone
 ### Milestone 3
 - Final Touches
 - Update Project Home Page
-
-## Beyond the Basics
-- Textbox/format property (depending on programming langauge)
-- Compling code in browser
-- Test code against submitted code by the admin
 
 ## Community Feedback
 Work in Progress.

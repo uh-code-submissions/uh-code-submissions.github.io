@@ -138,7 +138,7 @@ This section explores the devlopment of this application through three milestone
 - GitHub Actions
 - Update Project Home Page
 
-### [Milestone 3]
+### Milestone 3
 - Final Touches
 - Update Project Home Page
 
@@ -148,7 +148,7 @@ This section explores the devlopment of this application through three milestone
 - Test code against submitted code by the admin
 
 ## Community Feedback
-Work in Progress
+Work in Progress.
 
 ## Team Members
 * [Tristan DeAguiar](https://tristn.github.io/), Computer Science

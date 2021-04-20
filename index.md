@@ -77,9 +77,55 @@ Work in Progress.
 Work in Progress.
 
 ## Developer Guide
-Work in Progress.
+This section provides information for a developer interested in the process of downloading, installing, running, and modifying the system/application.
+
+### Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, go to [UH Code Submissions GitHub Page](https://github.com/uh-code-submissions/uh-code-submissions), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
+
+Third, go to your newly created repository, and click the "Clone or download" button to download your new GitHub repo to your local file system. Using [GitHub Desktop](https://desktop.github.com/) is a great choice if you use MacOS or Windows.
+
+Fourth, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+
+```
+$ meteor npm install
+```
+
+Lastly, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the template application will appear at http://localhost:3000. You can login using the credentials in [settings.development.json](https://github.com/uh-code-submissions/uh-code-submissions/blob/master/config/settings.development.json), or else register a new account.
+
+#### Application Design
+
+This application is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in UH Code Submissions.
+
+### Initialization
+
+The config directory is intended to hold settings files. The repository contains one file: [config/settings.development.json].
+
+This file contains default definitions for Profiles, Projects, and Interests and the relationships between them. Consult the walkthrough video for more details.
+
+### Quality Assurance
+
+#### ESLint
+
+You can make sure that the application adheres to our coding standards by provoking ESLint in your app / directory:
+
+```
+meteor npm run lint
+```
+
+ESLint should show no errors. It is recommended that to do development with ESLint running in the development IDE, such as IntelliJ.
 
 ## Development History
+This section explores the devlopment of this application through three milestones.
+
 ### [Milestone 1](https://github.com/uh-code-submissions/uh-code-submissions/projects/1) 
 - Create Mockup Pages
 - Deployment

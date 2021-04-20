@@ -151,7 +151,7 @@ This section explores the devlopment of this application through three milestone
 Work in Progress.
 
 ## Team Members
-* [Tristan DeAguiar](https://tristn.github.io/), Computer Science
 * [Chad Oshiro](https://chadoshiro.github.io/), Computer Science
-* [Kiran Datwani](https://kirandatwani.github.io/), Computer Science
 * [Kanai Gooding](https://kanaigooding.github.io/), Mathematics
+* [Kiran Datwani](https://kirandatwani.github.io/), Computer Science
+* [Tristan DeAguiar](https://tristn.github.io/), Computer Science

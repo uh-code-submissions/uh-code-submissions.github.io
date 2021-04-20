@@ -6,6 +6,7 @@
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
+* [Community Feedback](#community-feedback)
 * [Team Members](#team-members)
 
 ## Overview
@@ -137,10 +138,17 @@ This section explores the devlopment of this application through three milestone
 - GitHub Actions
 - Update Project Home Page
 
+### [Milestone 3]
+- Final Touches
+- Update Project Home Page
+
 ## Beyond the Basics
 - Textbox/format property (depending on programming langauge)
 - Compling code in browser
 - Test code against submitted code by the admin
+
+## Community Feedback
+Work in Progress
 
 ## Team Members
 * [Tristan DeAguiar](https://tristn.github.io/), Computer Science

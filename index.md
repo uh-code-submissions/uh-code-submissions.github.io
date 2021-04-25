@@ -63,24 +63,33 @@ In the user profile page, it will contain cards containing information about the
 
 <img class="ui medium left floated image" src="../images/user-homepage.png">
 
+- New Problem Page (admin only)
+Work in Progress.
+
 ### Problems Page
 In the problems page, there will be cards that display problems that the admin has created. The user will be able to click on one of the problems that they want to solve and be moved to the problems solutions page. In the cards, the user will be able to see the title of the problem, A short description of what the problem will be about, and what category that problem is under. Our theme is a darker gray background with lighter gray cards.
 
 <img class="ui medium right floated image" src="../images/problems.png">
+
+- Edit Problem Page (admin only)
+Work in Progress
 
 ### Problem Solutions Page
 After selecting a problem, the user will be guided to the problem solution page. In the problem solution page, the user will be able to see the problem, type out a solution, and press the submit button. The solution submitted by the user will then go to the PANDA officers for them to review and give feedback to. The background will remain consistent with the application’s overall theme.
 
 <img class="ui medium right floated image" src="../images/problem-solution.png">
 
-- New Problem Page (admin only)
+- Feedback Page (admin only)
 Work in Progress.
 
-- Feedback Page (admin only)
+- Feedback Page (user only)
 Work in Progress.
 
 - Leaderboard (users with most correct solutions)
 Work in Progress.
+
+- Students Database (collection of student users)
+Work in Progress
 
 ## Developer Guide
 This section provides information for a developer interested in the process of downloading, installing, running, and modifying the system/application.

@@ -152,7 +152,7 @@ This section explores the devlopment of this application through three milestone
 - GitHub Actions
 - Update Project Home Page
 
-### Milestone 3
+### [Milestone 3](https://github.com/uh-code-submissions/uh-code-submissions/projects/3)
 - Final Touches
 - Update Project Home Page
 

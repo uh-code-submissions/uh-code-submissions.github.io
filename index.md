@@ -145,7 +145,7 @@ ESLint should show no errors. It is recommended that to do development with ESLi
 
 ## Continuous Integration
 
-[![ci-meteor-application-template-react](https://github.com/uh-code-submissions/uh-code-submissions/actions/workflows/ci.yml/badge.svg?event=push)](https://github.com/uh-code-submissions/uh-code-submissions/actions/workflows/ci.yml)
+[![ci-meteor-application-template-react](https://github.com/uh-code-submissions/uh-code-submissions/actions/workflows/ci.yml/badge.svg)](https://github.com/uh-code-submissions/uh-code-submissions/actions/workflows/ci.yml)
 
 UH Code Submissions uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/uh-code-submissions/uh-code-submissions/actions](https://github.com/uh-code-submissions/uh-code-submissions/actions).
 

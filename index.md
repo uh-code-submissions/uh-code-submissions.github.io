@@ -56,12 +56,12 @@ This page is the signup page for both the users (who solve problems) and the adm
 ### Admin Profile Page
 This is the Admin profile page. The admin profile page contains a quick basic overview of the admins profile and bio. Other components that we want to implement are a questions activity feed to allow the admin to see when a student has submitted a new solution to their questions, a big green button which directs the admin to the Submit Question page, and a Meme of the Day. The page continues the light theme throughout the website.
 
-<img class="ui medium right floated image" src="../images/admin-homepage.png">
+<img class="ui medium right floated image" src="../images/admin-homepage.PNG">
 
 ### User Profile Page
 This is the user profile page. The user profile page contains a quick basic overview of the admins profile and bio. Other components that we want to implement are a rating system, a list of the classes that the user has taken, a ranking system to provide an incentive to complete problems, and 'subcards' of problems that the user has recently encountered. The page continues the light theme throughout the website.
 
-<img class="ui medium left floated image" src="../images/user-homepage.png">
+<img class="ui medium left floated image" src="../images/user-homepage.PNG">
 
 - New Problem Page (admin only)
 Work in Progress.

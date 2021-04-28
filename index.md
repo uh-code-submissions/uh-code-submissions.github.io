@@ -145,9 +145,9 @@ ESLint should show no errors. It is recommended that to do development with ESLi
 
 ## Continuous Integration
 
-![ci-badge](https://github.com/bowfolios/bowfolios/workflows/ci-bowfolios/badge.svg)
+![ci-badge](https://github.com/uh-code-submissions/uh-code-submissions/workflows/ci-bowfolios/badge.svg)
 
-BowFolios uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/bowfolios/bowfolios/actions](https://github.com/bowfolios/bowfolios/actions).
+UH Code Submissions uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/bowfolios/bowfolios/actions](https://github.com/bowfolios/bowfolios/actions).
 
 The workflow definition file is quite simple and is located at
 [.github/workflows/ci.yml](https://github.com/bowfolios/bowfolios/blob/master/.github/workflows/ci.yml).

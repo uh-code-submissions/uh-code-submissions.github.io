@@ -53,13 +53,13 @@ This page is the signup page for both the users (who solve problems) and the adm
 
 <img class="ui medium left floated image" src="../images/register.png">
 
-### Admin Home Page
-This is the Admin home page. The admin home page contains a quick basic overview of the admins profile and bio. It features a questions activity feed to allow the admin to see when a student has submitted a new solution to their questions. Also features a big green button which directs the admin to the Submit Question page. The page continues the dark theme throughout the website. This page includes Meme of the Day.
+### Admin Profile Page
+This is the Admin profile page. The admin profile page contains a quick basic overview of the admins profile and bio. Other components that we want to implement are a questions activity feed to allow the admin to see when a student has submitted a new solution to their questions, a big green button which directs the admin to the Submit Question page, and a Meme of the Day. The page continues the light theme throughout the website.
 
 <img class="ui medium right floated image" src="../images/admin-homepage.png">
 
 ### User Profile Page
-In the user profile page, it will contain cards containing information about the user while maintaining the dark theme of the overall website. Grey backgrounds with light grey cards. The first card will contain the user’s profile information, and ONLY on the user’s own page, an link to edit the profile. This includes an image, name, github account and “start rating”. The second card will contain classes that the user has taken, to provide admin with information on knowledge that the student has or doesn’t have. The third card is the ranking, to gamify the website and provide an incentive to complete problems. A bio is included in another card to promote social activity and meeting new people. Problems.The final card will contain ‘subcards’ of problems the user has recently encountered.  
+This is the user profile page. The user profile page contains a quick basic overview of the admins profile and bio. Other components that we want to implement are a rating system, a list of the classes that the user has taken, a ranking system to provide an incentive to complete problems, and 'subcards' of problems that the user has recently encountered. The page continues the light theme throughout the website.
 
 <img class="ui medium left floated image" src="../images/user-homepage.png">
 
@@ -67,7 +67,7 @@ In the user profile page, it will contain cards containing information about the
 Work in Progress.
 
 ### Problems Page
-In the problems page, there will be cards that display problems that the admin has created. The user will be able to click on one of the problems that they want to solve and be moved to the problems solutions page. In the cards, the user will be able to see the title of the problem, A short description of what the problem will be about, and what category that problem is under. Our theme is a darker gray background with lighter gray cards.
+In the problems page, there will be cards that display problems that the admin has created. The user will be able to click on one of the problems that they want to solve and be moved to the problems solutions page. In the cards, the user will be able to see the title of the problem, A short description of what the problem will be about, and what category that problem is under. The page continues the light theme throughout the website.
 
 <img class="ui medium right floated image" src="../images/problems.png">
 

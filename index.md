@@ -69,7 +69,7 @@ Work in Progress.
 ### Problems Page
 In the problems page, there will be cards that display problems that the admin has created. The user will be able to click on one of the problems that they want to solve and be moved to the problems solutions page. In the cards, the user will be able to see the title of the problem, A short description of what the problem will be about, and what category that problem is under. The page continues the light theme throughout the website.
 
-<img class="ui medium right floated image" src="../images/problems.PNG">
+<img class="ui medium right floated image" src="../images/problems.png">
 
 - Edit Problem Page (admin only)
 Work in Progress

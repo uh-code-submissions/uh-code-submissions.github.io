@@ -5,6 +5,7 @@
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
+* [Continuous Integration](#continuous-integration)
 * [Development History](#development-history)
 * [Community Feedback](#community-feedback)
 * [Team Members](#team-members)

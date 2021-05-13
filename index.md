@@ -91,12 +91,6 @@ Work in Progress.
 - Feedback Page (user only)
 Work in Progress.
 
-- Leaderboard (users with most correct solutions)
-Work in Progress.
-
-- Students Database (collection of student users)
-Work in Progress
-
 ## Developer Guide
 This section provides information for a developer interested in the process of downloading, installing, running, and modifying the system/application.
 

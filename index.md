@@ -162,6 +162,10 @@ This section explores the devlopment of this application through three milestone
 ## Community Feedback
 We love to hear from our users, and we focus on building our app around them. One important way we listen to the community is through your submitted feedback. We really value your opinions and suggestions. Please contact one of the UH-Code-Submissions developers at the bottom of this page.
 
+"The overall site is appeasing and straight forward. I can see how useful this sight will prove to be in aiding the PANDA club. I wish there was more incentive to answering problems. I would like to see maybe something like a personal score so I feel like I'm achieving something after spending 10 hours staring at algorithm problems in an attempt to learn something. I really like the intention of this site though!"
+
+"The website looks easy to use and clean. Signing up, I had no trouble and I enjoyed the UI of the profile page. If only I could answer those challenging algorithm problems! I guess I could get some practice in. One suggestion I have is to add more fun features. However, I believe I can really use this site to assist my learning."
+
 ## Team Members
 * [Chad Oshiro](https://chadoshiro.github.io/), Computer Science
 * [Kanai Gooding](https://kanaigooding.github.io/), Mathematics

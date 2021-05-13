@@ -85,12 +85,6 @@ After selecting a problem, the user will be guided to the problem solution page.
 
 <img class="ui medium right floated image" src="../images/problem-solution.png">
 
-- Feedback Page (admin only)
-Work in Progress.
-
-- Feedback Page (user only)
-Work in Progress.
-
 ## Developer Guide
 This section provides information for a developer interested in the process of downloading, installing, running, and modifying the system/application.
 

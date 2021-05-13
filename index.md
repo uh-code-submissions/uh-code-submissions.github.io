@@ -47,43 +47,43 @@ The landing page will be the first part of the website that the user or admin wi
 ### Login Page
 This page is the sign-in/login page for both the users (who solve problems) and the admins (who provide problems). The login page will be for users who already have an account for the application. The user or admin will be asked to input their email address and password.
 
-<img class="ui medium floated image" src="../images/login.png">
+<img class="ui medium floated image" src="../images/signin.png">
 
 ### Signup Page
 This page is the signup page for both the users (who solve problems) and the admins (who provide problems). The register page is for new users who will be making an account. The register page will be asking basic information such as name, class standing, email, and will be prompted to create a password.
 
-<img class="ui medium left floated image" src="../images/register.png">
+<img class="ui medium left floated image" src="../images/signup.png">
 
 ### Admin Profile Page
 This is the admin profile page. The admin profile page contains a quick basic overview of the admins profile and bio. Other components that we want to implement are a questions activity feed to allow the admin to see when a student has submitted a new solution to their questions, a big green button which directs the admin to the Submit Question page, and a Meme of the Day. The page continues the light theme throughout the website.
 
-<img class="ui medium right floated image" src="../images/admin-homepage.PNG">
+<img class="ui medium right floated image" src="../images/adminprofilepage.png">
 
 ### User Profile Page
 This is the user profile page. The user profile page contains a quick basic overview of the admins profile and bio. Other components that we want to implement are a rating system, a list of the classes that the user has taken, a ranking system to provide an incentive to complete problems, and 'subcards' of problems that the user has recently encountered. The page continues the light theme throughout the website.
 
-<img class="ui medium left floated image" src="../images/user-homepage.PNG">
+<img class="ui medium left floated image" src="../images/userprofilepage.png">
 
 ### Add New Problem Page
 This is the add new problem page. The add new problem page is only for admin to access. Through this page, the admin will be able to add new problems to the problems page. They can input the name, category, and a description of the problem. There is a submit button at the bottom left when they are ready to create it. The page continues the light theme throughout the website.
 
-<img class="ui medium left floated image" src="../images/addnewproblem.PNG">
+<img class="ui medium left floated image" src="../images/addnewproblem.png">
 
 ### Problems Page
 In the problems page, there will be cards that display problems that the admin has created. The user will be able to click on one of the problems that they want to solve and be moved to the problems solutions page. In the cards, the user will be able to see the title of the problem, A short description of what the problem will be about, and what category that problem is under. The page continues the light theme throughout the website.
 
-<img class="ui medium right floated image" src="../images/problems.png">
+<img class="ui medium right floated image" src="../images/userproblempage.png">
 
 ### Edit Problem Page
-This is the edit problem page. The edit problem page is only for admin to access. Through this page, the admin will be able to edit problems that have already been created. There is a button on the card the they can click to edit. They will be able to change the title, category, and description of the problem.The page continues the light theme throughout the website.
+This is the edit problem page. The edit problem page is only for admin to access. Through this page, the admin will be able to edit problems that have already been created. There is a button on the card the they can click to edit. They will be able to change the title, category, and description of the problem. The page continues the light theme throughout the website.
 
-<img class="ui medium left floated image" src="../images/edit1.PNG">
-<img class="ui medium left floated image" src="../images/edit2.PNG">
+<img class="ui medium left floated image" src="../images/adminproblempage.png">
+<img class="ui medium left floated image" src="../images/editproblem.png">
 
 ### Problem Solutions Page
 After selecting a problem, the user will be guided to the problem solution page. In the problem solution page, the user will be able to see the problem, type out a solution, and press the submit button. The solution submitted by the user will then go to the PANDA officers for them to review and give feedback to. The background will remain consistent with the application’s overall theme.
 
-<img class="ui medium right floated image" src="../images/problem-solution.png">
+<img class="ui medium right floated image" src="../images/solution.png">
 
 ## Developer Guide
 This section provides information for a developer interested in the process of downloading, installing, running, and modifying the system/application.

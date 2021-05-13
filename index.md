@@ -168,6 +168,8 @@ We love to hear from our users, and we focus on building our app around them. On
 
 "The functions of this website are really straight forward. The site lacks color but I do like the overall gray-white minimal theme. Color accents specificaly could look nice and add some spice to the site. I'd also like to be able to see other users, students and teachers alike. I really like the submitted solutions feed on the user profile. I'd like more quality of life features implemented, but I really like the foundations of this site and think it will carry this website far." -CC
 
+"With the sole purpose of this website being made for students to attempt and learn algorithm problems, given out by the PANDA officers, it satisfies its purpose. However, the site has an empty feeling. I wish there was more color and things to fill the void of space. I like the minimalist approach though, so maybe fill the space with more information and appealing visuals, while still keeping the minimalist gray scale theme. Overall, I can see this website being used as a learning assistant instrument. I'd love to see more development, spearheading this site to an innovative resource." - N.E.
+
 ## Team Members
 * [Chad Oshiro](https://chadoshiro.github.io/), Computer Science
 * [Kanai Gooding](https://kanaigooding.github.io/), Mathematics

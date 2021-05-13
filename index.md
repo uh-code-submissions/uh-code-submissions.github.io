@@ -160,7 +160,7 @@ This section explores the devlopment of this application through three milestone
 - Update Project Home Page
 
 ## Community Feedback
-Work in Progress.
+We love to hear from our users, and we focus on building our app around them. One important way we listen to the community is through your submitted feedback. We really value your opinions and suggestions. Please contact one of the UH-Code-Submissions developers at the bottom of this page.
 
 ## Team Members
 * [Chad Oshiro](https://chadoshiro.github.io/), Computer Science
